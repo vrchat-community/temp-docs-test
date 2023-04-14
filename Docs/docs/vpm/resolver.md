@@ -5,8 +5,6 @@
 ## Overview
 The Package Resolver is a Unity Editor tool which can download and install the packages required for a VPM project without the VCC.
 
-MOMO UPDATE!
-
 The Resolver uses the [VPM Library](/guides/glossary#vpm) under the hood - the same one that powers the [VCC](/guides/glossary#vcc), so it downloads packages and resolves dependencies in the same exact way.
 
 ## Getting It
